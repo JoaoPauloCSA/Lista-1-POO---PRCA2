@@ -1,3 +1,0 @@
-E:\PROGRAMACAO\projPOO_ex2\obj\Debug\projPOO_ex2.csproj.AssemblyReference.cache
-E:\PROGRAMACAO\projPOO_ex2\obj\Debug\projPOO_ex2.csproj.SuggestedBindingRedirects.cache
-E:\PROGRAMACAO\projPOO_ex2\obj\Debug\projPOO_ex2.csproj.CoreCompileInputs.cache
