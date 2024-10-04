@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLm5RS4csREkC+W1DXu+Frd3DTFHJPSsMKXYzsplywt/cQ2FSI8DX3j75qJy33dkCD4H+ywWA76HkZCUXsaKRw==",
+  "success": true,
+  "projectFilePath": "E:\\Programacao\\lista 1\\Tarefa01102021-main\\Tarefa01102021-main\\POO2Ex2\\POO2Ex2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
